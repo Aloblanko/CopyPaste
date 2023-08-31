@@ -1,6 +1,5 @@
 ## TODO
 
-
 # 1. Projektstruktur und Setup:**
    - Richte ein neues React-Projekt mit Vite ein, da Vite die Entwicklungsgeschwindigkeit steigern kann.
    - Verwende React Router, um die Navigation zwischen verschiedenen Seiten innerhalb deiner SPA zu ermöglichen.
@@ -42,6 +41,3 @@
 # 11. Tests und Fehlerbehebung:**
    - Implementiere Tests, um die Stabilität deiner Anwendung sicherzustellen.
    - Überwache die Anwendung auf Fehler und füge Protokollierung hinzu, um Probleme schnell zu identifizieren.
-
-Dies ist nur eine grobe Skizze.
-
