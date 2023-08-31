@@ -1,8 +1,6 @@
 # CopyPaste
 This is a project where I build a simple Single Page Application (SPA) to save any scripts for study.
 
-# Code-Sharing-App (Projektname)
-
 Willkommen! Dieses Projekt ermöglicht es Benutzern, Code-Snippets zu erstellen, zu speichern, zu teilen und zu verwalten.
 
 ## Funktionen
