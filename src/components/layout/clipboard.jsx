@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 
 function Clipboard() {
   const [copiedText, setCopiedText] = useState('');
@@ -19,7 +19,7 @@ function Clipboard() {
           placeholder="Paste text here..."
         />
       </div>
-      <button onClick={handleCopy}>Copy to Post-It</button>
+      <button onClick={handleCopy}>Paste it </button>
     </div>
   );
 }
